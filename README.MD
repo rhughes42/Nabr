@@ -1,4 +1,4 @@
-# Nabr Project
+# Exercise Project
 
 This test exercise was attempted in both JavaScript and as a Grasshopper plugin, and was completed in around two and a half hours.
 
