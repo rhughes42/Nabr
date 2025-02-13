@@ -1,0 +1,14 @@
+D:\source\nabr\bin\Debug\net7.0-windows\Nabr.deps.json
+D:\source\nabr\bin\Debug\net7.0-windows\Nabr.runtimeconfig.json
+D:\source\nabr\bin\Debug\net7.0-windows\Nabr.gha
+D:\source\nabr\bin\Debug\net7.0-windows\Nabr.pdb
+D:\source\nabr\obj\Debug\net7.0-windows\Nabr.csproj.AssemblyReference.cache
+D:\source\nabr\obj\Debug\net7.0-windows\Nabr.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\nabr\obj\Debug\net7.0-windows\Nabr.AssemblyInfoInputs.cache
+D:\source\nabr\obj\Debug\net7.0-windows\Nabr.AssemblyInfo.cs
+D:\source\nabr\obj\Debug\net7.0-windows\Nabr.csproj.CoreCompileInputs.cache
+D:\source\nabr\obj\Debug\net7.0-windows\Nabr.gha
+D:\source\nabr\obj\Debug\net7.0-windows\refint\Nabr.gha
+D:\source\nabr\obj\Debug\net7.0-windows\Nabr.pdb
+D:\source\nabr\obj\Debug\net7.0-windows\Nabr.genruntimeconfig.cache
+D:\source\nabr\obj\Debug\net7.0-windows\ref\Nabr.gha

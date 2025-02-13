@@ -1,0 +1,9 @@
+D:\source\nabr\bin\Debug\net48\Nabr.gha
+D:\source\nabr\bin\Debug\net48\Nabr.pdb
+D:\source\nabr\obj\Debug\net48\Nabr.csproj.AssemblyReference.cache
+D:\source\nabr\obj\Debug\net48\Nabr.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\nabr\obj\Debug\net48\Nabr.AssemblyInfoInputs.cache
+D:\source\nabr\obj\Debug\net48\Nabr.AssemblyInfo.cs
+D:\source\nabr\obj\Debug\net48\Nabr.csproj.CoreCompileInputs.cache
+D:\source\nabr\obj\Debug\net48\Nabr.gha
+D:\source\nabr\obj\Debug\net48\Nabr.pdb

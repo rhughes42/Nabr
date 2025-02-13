@@ -1,0 +1,23 @@
+
+[*]
+
+# Microsoft .NET properties
+csharp_style_expression_bodied_accessors = true:none
+csharp_style_expression_bodied_constructors = false:none
+csharp_style_expression_bodied_methods = true:suggestion
+csharp_style_expression_bodied_properties = true:none
+csharp_style_var_elsewhere = false:none
+csharp_style_var_for_built_in_types = false:suggestion
+csharp_style_var_when_type_is_apparent = true:none
+dotnet_style_predefined_type_for_locals_parameters_members = true:suggestion
+
+# ReSharper properties
+resharper_braces_redundant = false
+resharper_builtin_type_apply_to_native_integer = true
+resharper_for_built_in_types = use_var_when_evident
+resharper_prefer_separate_deconstructed_variables_declaration = true
+
+# ReSharper inspection severities
+resharper_arrange_local_function_body_highlighting = hint
+resharper_arrange_method_or_operator_body_highlighting = hint
+resharper_built_in_type_reference_style_highlighting = hint
