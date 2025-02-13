@@ -1,4 +1,4 @@
-
+![Quick Screencap](nabr.png)
 
 # Exercise Project
 
