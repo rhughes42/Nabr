@@ -6,6 +6,7 @@
 		<style>
 			body {
 				display: flex;
+				flex-direction: column;
 				justify-content: center;
 				align-items: center;
 				height: 100vh;
@@ -16,7 +17,11 @@
 		</style>
 	</head>
 	<body>
+		<div id="titleDiv">
+			<h2>Nabr Apartment Mix</h2>
+		</div>
 		<canvas id="drawingCanvas" width="500" height="400"></canvas>
+		<div id="controlsDiv"></div>
 		<script src="../src/drawing/drawing.js"></script>
 	</body>
 </html>
